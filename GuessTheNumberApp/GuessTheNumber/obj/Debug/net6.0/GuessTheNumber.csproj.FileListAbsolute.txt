@@ -1,0 +1,15 @@
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\ref\GuessTheNumber.dll
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\JAI BHAVANI\source\repos\number-guessing-game\GuessTheNumberApp\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.AssemblyReference.cache
